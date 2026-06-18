@@ -1,3 +1,4 @@
 # warrenprompttett
-XML para un Gems de Gemini que hace el análisis fundamental de acciones de la bolsa (Value Investing)
+XML para un Gems de Gemini que hace el análisis fundamental de acciones de la bolsa (Value Investing).
+---
 IMPORTANTE: El contenido de este repositorio, incluyendo scripts, modelos de datos, códigos o documentación, se proporciona exclusivamente con fines educativos, informativos y de automatización personal. No constituye, ni debe ser interpretado como, asesoramiento financiero, legal, fiscal o de inversión. El uso de las herramientas aquí presentadas es bajo tu propio riesgo y responsabilidad. No me hago responsable de decisiones comerciales, pérdidas financieras o resultados derivados de la implementación de este código. Invierte y opera bajo tu propio análisis.
